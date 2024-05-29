@@ -1,4 +1,7 @@
-#OUTPUT :
+#OUTPUT :![Screenshot 2024-05-30 000603](https://github.com/shekhar-sharma-111/React-js-User-table/assets/139949866/42ca10fd-51f7-4a1d-a894-b2e0ece017e2)
+
+![Screenshot 2024-05-30 000718](https://github.com/shekhar-sharma-111/React-js-User-table/assets/139949866/e8779eb3-4006-42b1-b031-cac76d537528)
+
 
 https://github.com/shekhar-sharma-111/React-js-User-table/assets/139949866/7bf20679-c4ac-4389-8540-0b128174d4b1
 
